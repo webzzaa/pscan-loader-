@@ -50,7 +50,8 @@ cd fscan_bypass
 
 > loader.exe 运行时会读取同目录下的 `output.bin`，解密后在内存中执行 fscan。
 实现效果
-> <img width="2012" height="926" alt="image" src="https://github.com/user-attachments/assets/c8c1506d-13aa-4ac7-a432-ef0bdb268001" />
+> <img width="1381" height="630" alt="9fa1c076-756c-4545-b793-9aa5f6cb0a14" src="https://github.com/user-attachments/assets/c050c63b-b1f2-49be-a9fd-a3976cd3c69d" />
+
 
 ### 自定义编译加载器
 
