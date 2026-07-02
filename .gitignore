@@ -1,0 +1,22 @@
+# Reasonix IDE（Trae IDE 配置）
+.reasonix/
+reasonix.toml
+
+# Trae IDE
+.trae/
+agent/
+
+# 构建输出
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# 加密 shellcode 输出
+output.bin
+
+# Python 缓存
+__pycache__/
+*.pyc
